@@ -5,7 +5,7 @@
 ![XiaoXi](https://img.shields.io/badge/XiaoXi-32-orange)
 ![kooker.jp](https://img.shields.io/badge/kooker.jp-458-purple)
 
-> **最后同步时间**：`2026-08-20 20:40:14` (北京时间)  
+> **最后同步时间**：`2026-08-20 21:10:27` (北京时间)  
 > **更新状态**：⏸️ 节点内容与上次运行一致，未发现更新
 
 ### 📊 节点统计
@@ -16,11 +16,11 @@
 ### 🚀 订阅链接
 | 类型 | 订阅地址 |
 | :--- | :--- |
-| **Mihomo / Clash Meta** | `https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/mihomo.yaml` |
-| **Clash / Standard** | `https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/all.yaml` |
-| **Base64 (通用)** | `https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/base64.txt` |
-| **通用TXT (XiaoXi)** | `https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/byxiaoxi.txt` |
-| **通用TXT (kooker.jp)** | `https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/kooker.jp.txt` |
+| **Mihomo / Clash Meta** | `https://raw.githubusercontent.com/zxf2007pk/FreeSubsCheck/main/mihomo.yaml` |
+| **Clash / Standard** | `https://raw.githubusercontent.com/zxf2007pk/FreeSubsCheck/main/all.yaml` |
+| **Base64 (通用)** | `https://raw.githubusercontent.com/zxf2007pk/FreeSubsCheck/main/base64.txt` |
+| **通用TXT (XiaoXi)** | `https://raw.githubusercontent.com/zxf2007pk/FreeSubsCheck/main/byxiaoxi.txt` |
+| **通用TXT (kooker.jp)** | `https://raw.githubusercontent.com/zxf2007pk/FreeSubsCheck/main/kooker.jp.txt` |
 
 ---
 
